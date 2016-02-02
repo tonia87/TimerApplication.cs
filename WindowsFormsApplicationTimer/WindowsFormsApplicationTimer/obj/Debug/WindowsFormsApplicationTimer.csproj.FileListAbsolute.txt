@@ -1,0 +1,16 @@
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\bin\Debug\WindowsFormsApplicationTimer.exe.config
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\bin\Debug\WindowsFormsApplicationTimer.exe
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\bin\Debug\WindowsFormsApplicationTimer.pdb
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\bin\Debug\Interop.WMPLib.dll
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\Interop.WMPLib.dll
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.csproj.ResolveComReference.cache
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.frmTimer.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.frmWMP.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.frmAbout.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.Properties.Resources.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.csproj.GenerateResource.Cache
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.exe
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.pdb
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\WindowsFormsApplicationTimer\WindowsFormsApplicationTimer\obj\Debug\WindowsFormsApplicationTimer.csprojResolveAssemblyReference.cache
